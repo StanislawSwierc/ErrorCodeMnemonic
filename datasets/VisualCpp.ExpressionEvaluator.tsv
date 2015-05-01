@@ -1,0 +1,66 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+Visual C/C++ Expression Evaluator	CXX0000		no error condition	Error	http://msdn.microsoft.com/en-us/library/h0ah2y74.aspx
+Visual C/C++ Expression Evaluator	CXX0001		exception executing user function	Error	http://msdn.microsoft.com/en-us/library/dt8h6199.aspx
+Visual C/C++ Expression Evaluator	CXX0002		error accessing user memory	Error	http://msdn.microsoft.com/en-us/library/ee2f3kc8.aspx
+Visual C/C++ Expression Evaluator	CXX0004		syntax error	Error	http://msdn.microsoft.com/en-us/library/z2zk12e9.aspx
+Visual C/C++ Expression Evaluator	CXX0005		operator not supported	Error	http://msdn.microsoft.com/en-us/library/4eh71d81.aspx
+Visual C/C++ Expression Evaluator	CXX0006		missing left parenthesis	Error	http://msdn.microsoft.com/en-us/library/94yze72x.aspx
+Visual C/C++ Expression Evaluator	CXX0007		missing right parenthesis	Error	http://msdn.microsoft.com/en-us/library/a1cfc3kf.aspx
+Visual C/C++ Expression Evaluator	CXX0009		missing ' after character constant	Error	http://msdn.microsoft.com/en-us/library/ddyf1588.aspx
+Visual C/C++ Expression Evaluator	CXX0010		missing left bracket	Error	http://msdn.microsoft.com/en-us/library/b7akaw9f.aspx
+Visual C/C++ Expression Evaluator	CXX0011		missing right bracket	Error	http://msdn.microsoft.com/en-us/library/4ab0yeht.aspx
+Visual C/C++ Expression Evaluator	CXX0012		missing left curly brace	Error	http://msdn.microsoft.com/en-us/library/2e6f5e72.aspx
+Visual C/C++ Expression Evaluator	CXX0013		missing operator	Error	http://msdn.microsoft.com/en-us/library/adb00k8e.aspx
+Visual C/C++ Expression Evaluator	CXX0014		missing operand	Error	http://msdn.microsoft.com/en-us/library/8k0543b7.aspx
+Visual C/C++ Expression Evaluator	CXX0015		expression too complex (stack overflow)	Error	http://msdn.microsoft.com/en-us/library/3581eyfs.aspx
+Visual C/C++ Expression Evaluator	CXX0016		constant too big	Error	http://msdn.microsoft.com/en-us/library/aaccxtwc.aspx
+Visual C/C++ Expression Evaluator	CXX0017		symbol not found	Error	http://msdn.microsoft.com/en-us/library/7cw9d870.aspx
+Visual C/C++ Expression Evaluator	CXX0018		bad register name	Error	http://msdn.microsoft.com/en-us/library/9kbs1wfc.aspx
+Visual C/C++ Expression Evaluator	CXX0019		bad type cast	Error	http://msdn.microsoft.com/en-us/library/183095w7.aspx
+Visual C/C++ Expression Evaluator	CXX0020		operand types bad for this operation	Error	http://msdn.microsoft.com/en-us/library/3ts43c4t.aspx
+Visual C/C++ Expression Evaluator	CXX0021		struct or union used as scalar	Error	http://msdn.microsoft.com/en-us/library/swzywx6s.aspx
+Visual C/C++ Expression Evaluator	CXX0022		function call before _main	Error	http://msdn.microsoft.com/en-us/library/04ssxxfd.aspx
+Visual C/C++ Expression Evaluator	CXX0023		bad radix	Error	http://msdn.microsoft.com/en-us/library/7becwzy2.aspx
+Visual C/C++ Expression Evaluator	CXX0024		operation needs l-value	Error	http://msdn.microsoft.com/en-us/library/yaasth5d.aspx
+Visual C/C++ Expression Evaluator	CXX0025		operator needs struct/union	Error	http://msdn.microsoft.com/en-us/library/60z1hk41.aspx
+Visual C/C++ Expression Evaluator	CXX0026		bad format string	Error	http://msdn.microsoft.com/en-us/library/ehydskfh.aspx
+Visual C/C++ Expression Evaluator	CXX0027		tp addr not l-value	Error	http://msdn.microsoft.com/en-us/library/ctyd983c.aspx
+Visual C/C++ Expression Evaluator	CXX0028		not struct/union element	Error	http://msdn.microsoft.com/en-us/library/zat1x1y1.aspx
+Visual C/C++ Expression Evaluator	CXX0029		not struct pointer	Error	http://msdn.microsoft.com/en-us/library/f772f3e3.aspx
+Visual C/C++ Expression Evaluator	CXX0030		expression not evaluatable	Error	http://msdn.microsoft.com/en-us/library/360csw6a.aspx
+Visual C/C++ Expression Evaluator	CXX0031		expression not expandable	Error	http://msdn.microsoft.com/en-us/library/f9563054.aspx
+Visual C/C++ Expression Evaluator	CXX0032		divide by 0	Error	http://msdn.microsoft.com/en-us/library/ax56cbb7.aspx
+Visual C/C++ Expression Evaluator	CXX0033		error in OMF type information	Error	http://msdn.microsoft.com/en-us/library/d7wkwszz.aspx
+Visual C/C++ Expression Evaluator	CXX0036		bad context {...} specification	Error	http://msdn.microsoft.com/en-us/library/s46xh84d.aspx
+Visual C/C++ Expression Evaluator	CXX0037		out of memory	Error	http://msdn.microsoft.com/en-us/library/hzf201xy.aspx
+Visual C/C++ Expression Evaluator	CXX0038		function argument count and/or type mismatch	Error	http://msdn.microsoft.com/en-us/library/sttxs5z3.aspx
+Visual C/C++ Expression Evaluator	CXX0039		symbol is ambiguous	Error	http://msdn.microsoft.com/en-us/library/y24bh6ea.aspx
+Visual C/C++ Expression Evaluator	CXX0040		function requires implicit conversion	Error	http://msdn.microsoft.com/en-us/library/kect3fy0.aspx
+Visual C/C++ Expression Evaluator	CXX0041		class element must be static member or member function	Error	http://msdn.microsoft.com/en-us/library/6cd48556.aspx
+Visual C/C++ Expression Evaluator	CXX0043		this pointer used outside member function	Error	http://msdn.microsoft.com/en-us/library/xxhxyyas.aspx
+Visual C/C++ Expression Evaluator	CXX0044		use of _based(void) pointer requires :&gt; operator	Error	http://msdn.microsoft.com/en-us/library/11y8bfh9.aspx
+Visual C/C++ Expression Evaluator	CXX0045		not a function	Error	http://msdn.microsoft.com/en-us/library/9h9t4sfh.aspx
+Visual C/C++ Expression Evaluator	CXX0046		argument list required for member function	Error	http://msdn.microsoft.com/en-us/library/xh8ze777.aspx
+Visual C/C++ Expression Evaluator	CXX0047		argument list does not match a function	Error	http://msdn.microsoft.com/en-us/library/97ebyxe8.aspx
+Visual C/C++ Expression Evaluator	CXX0048		calling sequence not supported	Error	http://msdn.microsoft.com/en-us/library/15fbkt71.aspx
+Visual C/C++ Expression Evaluator	CXX0049		obsolete OMF - please relink program	Error	http://msdn.microsoft.com/en-us/library/6z53s4f4.aspx
+Visual C/C++ Expression Evaluator	CXX0050		left side of :: must be class/struct/union	Error	http://msdn.microsoft.com/en-us/library/h9kc3y78.aspx
+Visual C/C++ Expression Evaluator	CXX0051		more than one overloaded symbol specified in breakpoint	Error	http://msdn.microsoft.com/en-us/library/6651fxa7.aspx
+Visual C/C++ Expression Evaluator	CXX0052		member function not present	Error	http://msdn.microsoft.com/en-us/library/7d5xy7s9.aspx
+Visual C/C++ Expression Evaluator	CXX0053		nonfunction symbol match while binding breakpoints	Error	http://msdn.microsoft.com/en-us/library/c0h4y661.aspx
+Visual C/C++ Expression Evaluator	CXX0054		register in breakpoint expression illegal	Error	http://msdn.microsoft.com/en-us/library/k6s2527y.aspx
+Visual C/C++ Expression Evaluator	CXX0055		ambiguous symbol in context operator	Error	http://msdn.microsoft.com/en-us/library/tc11ctfb.aspx
+Visual C/C++ Expression Evaluator	CXX0056		error in line number	Error	http://msdn.microsoft.com/en-us/library/2b1f094x.aspx
+Visual C/C++ Expression Evaluator	CXX0057		no code at line number	Error	http://msdn.microsoft.com/en-us/library/f5dc47w5.aspx
+Visual C/C++ Expression Evaluator	CXX0058		overloaded operator not found	Error	http://msdn.microsoft.com/en-us/library/h62xb8ab.aspx
+Visual C/C++ Expression Evaluator	CXX0059		left operand is class not a function name	Error	http://msdn.microsoft.com/en-us/library/9as8wtz3.aspx
+Visual C/C++ Expression Evaluator	CXX0060		register is not available	Error	http://msdn.microsoft.com/en-us/library/ke899kbh.aspx
+Visual C/C++ Expression Evaluator	CXX0061		function nesting depth exceeded	Error	http://msdn.microsoft.com/en-us/library/bbb7kkbf.aspx
+Visual C/C++ Expression Evaluator	CXX0062		constructor calls not supported	Error	http://msdn.microsoft.com/en-us/library/s1dyb4dc.aspx
+Visual C/C++ Expression Evaluator	CXX0063		overloaded operator -&gt; not supported	Error	http://msdn.microsoft.com/en-us/library/0kwhsh3b.aspx
+Visual C/C++ Expression Evaluator	CXX0064		can't set breakpoint on bound virtual member function	Error	http://msdn.microsoft.com/en-us/library/22b7h41y.aspx
+Visual C/C++ Expression Evaluator	CXX0065		variable needs stack frame	Error	http://msdn.microsoft.com/en-us/library/yf05zza1.aspx
+Visual C/C++ Expression Evaluator	CXX0066		static member not present	Error	http://msdn.microsoft.com/en-us/library/334c07z5.aspx
+Visual C/C++ Expression Evaluator	CXX0067		function evaluation not supported	Error	http://msdn.microsoft.com/en-us/library/297tba1b.aspx
+Visual C/C++ Expression Evaluator	CXX0069		variable needs stack frame	Error	http://msdn.microsoft.com/en-us/library/06c954t4.aspx
+Visual C/C++ Expression Evaluator	CXX0072		Error: type information missing or unknown	Error	http://msdn.microsoft.com/en-us/library/b8h2c4at.aspx

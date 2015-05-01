@@ -1,0 +1,118 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+C/C++ Linker	LNK1000		unknown error; consult documentation for technical support options	Error	http://msdn.microsoft.com/en-us/library/89cx16e6.aspx
+C/C++ Linker	LNK1103		debugging information corrupt; recompile module	Error	http://msdn.microsoft.com/en-us/library/abz4dchs.aspx
+C/C++ Linker	LNK1104		cannot open file 'filename'	Error	http://msdn.microsoft.com/en-us/library/ts7eyw4s.aspx
+C/C++ Linker	LNK1106		invalid file or disk full: cannot seek to&nbsp;location	Error	http://msdn.microsoft.com/en-us/library/dxd2zbyd.aspx
+C/C++ Linker	LNK1107		invalid or corrupt file: cannot read at location	Error	http://msdn.microsoft.com/en-us/library/0h6ctxtk.aspx
+C/C++ Linker	LNK1112		module machine type 'type1' conflicts with target machine type 'type2'	Error	http://msdn.microsoft.com/en-us/library/21ksa10x.aspx
+C/C++ Linker	LNK1113		invalid machine type type	Error	http://msdn.microsoft.com/en-us/library/0s0w7cc6.aspx
+C/C++ Linker	LNK1120		number unresolved externals	Error	http://msdn.microsoft.com/en-us/library/z98k84c3.aspx
+C/C++ Linker	LNK1123		failure during conversion to COFF: file invalid or corrupt	Error	http://msdn.microsoft.com/en-us/library/7dz62kfh.aspx
+C/C++ Linker	LNK1127		library is corrupt	Error	http://msdn.microsoft.com/en-us/library/6827wdkc.aspx
+C/C++ Linker	LNK1136		invalid or corrupt file	Error	http://msdn.microsoft.com/en-us/library/6azkch2c.aspx
+C/C++ Linker	LNK1140		too many modules for program database; link with /PDB:NONE	Error	http://msdn.microsoft.com/en-us/library/83x1x32b.aspx
+C/C++ Linker	LNK1141		failure during build of exports file	Error	http://msdn.microsoft.com/en-us/library/s011eyfx.aspx
+C/C++ Linker	LNK1143		invalid or corrupt file: no symbol for COMDAT section number	Error	http://msdn.microsoft.com/en-us/library/9yas2xs2.aspx
+C/C++ Linker	LNK1152		cannot resolve one or more undecorated symbols	Error	http://msdn.microsoft.com/en-us/library/3802xyyy.aspx
+C/C++ Linker	LNK1158		cannot run 'filename'	Error	http://msdn.microsoft.com/en-us/library/58e16fxc.aspx
+C/C++ Linker	LNK1164		section section alignment (number) greater than /ALIGN value	Error	http://msdn.microsoft.com/en-us/library/c2dx9b4k.aspx
+C/C++ Linker	LNK1166		cannot adjust code at offset=offset, va=value	Error	http://msdn.microsoft.com/en-us/library/80995dsa.aspx
+C/C++ Linker	LNK1168		cannot open filename for writing	Error	http://msdn.microsoft.com/en-us/library/hhbdtt6d.aspx
+C/C++ Linker	LNK1169		one or more multiply defined symbols found	Error	http://msdn.microsoft.com/en-us/library/xttf5w7w.aspx
+C/C++ Linker	LNK1179		invalid or corrupt file: duplicate COMDAT 'filename'	Error	http://msdn.microsoft.com/en-us/library/cddbs9aw.aspx
+C/C++ Linker	LNK1181		cannot open input file 'filename'	Error	http://msdn.microsoft.com/en-us/library/y6b12xkc.aspx
+C/C++ Linker	LNK1188		BADFIXUPSECTION:: invalid fixup target 'symbol'; possible zero length section	Error	http://msdn.microsoft.com/en-us/library/8y26de9z.aspx
+C/C++ Linker	LNK1189		LIBTOOMANYMEMBERS:: library limit of number objects exceeded	Error	http://msdn.microsoft.com/en-us/library/at5879hx.aspx
+C/C++ Linker	LNK1196		invalid or corrupt import object: unknown version	Error	http://msdn.microsoft.com/en-us/library/a57xaebs.aspx
+C/C++ Linker	LNK1200		error reading program database 'filename'	Error	http://msdn.microsoft.com/en-us/library/atdhf0zb.aspx
+C/C++ Linker	LNK1201		error writing to program database 'filename'; check for insufficient disk space, invalid path, or insufficient privilege	Error	http://msdn.microsoft.com/en-us/library/ccdcse4s.aspx
+C/C++ Linker	LNK1211		precompiled type information not found; 'filename' not linked or overwritten	Error	http://msdn.microsoft.com/en-us/library/s5haf9ks.aspx
+C/C++ Linker	LNK1215		metadata operation failed (HRESULT) : error	Error	http://msdn.microsoft.com/en-us/library/ytad86xt.aspx
+C/C++ Linker	LNK1218		warning treated as error; no output file generated	Error	http://msdn.microsoft.com/en-us/library/ms235578.aspx
+C/C++ Linker	LNK1221		a subsystem can't be inferred and must be defined	Error	http://msdn.microsoft.com/en-us/library/w40575ex.aspx
+C/C++ Linker	LNK1223		invalid or corrupt file: file contains invalid .pdata contributions	Error	http://msdn.microsoft.com/en-us/library/15t6d69w.aspx
+C/C++ Linker	LNK1224		invalid image base address	Error	http://msdn.microsoft.com/en-us/library/3ya3f8wz.aspx
+C/C++ Linker	LNK1237		during code generation, compiler introduced reference to symbol 'symbol' defined in module 'module' compiled with /GL	Error	http://msdn.microsoft.com/en-us/library/at5twzkt.aspx
+C/C++ Linker	LNK1240		failed to compile IDL content	Error	http://msdn.microsoft.com/en-us/library/9557h46b.aspx
+C/C++ Linker	LNK1241		resource file 'resource file' already specified	Error	http://msdn.microsoft.com/en-us/library/zxb57007.aspx
+C/C++ Linker	LNK1245		invalid subsystem 'subsystem' specified; /SUBSYSTEM must be WINDOWS, WINDOWSCE, or CONSOLE	Error	http://msdn.microsoft.com/en-us/library/a080taze.aspx
+C/C++ Linker	LNK1248		image size ('size') exceeds maximum allowable size (80000000)	Error	http://msdn.microsoft.com/en-us/library/1cbeb9f0.aspx
+C/C++ Linker	LNK1256		ALINK operation failed : reason	Error	http://msdn.microsoft.com/en-us/library/c443fzwf.aspx
+C/C++ Linker	LNK1264		/LTCG:PGINSTRUMENT specified but no code generation required; instrumentation failed	Error	http://msdn.microsoft.com/en-us/library/5202c6a0.aspx
+C/C++ Linker	LNK1277		object record not found in pgd (filename)	Error	http://msdn.microsoft.com/en-us/library/wtwty9x7.aspx
+C/C++ Linker	LNK1282		unable to /REBASE file; it has been signed	Error	http://msdn.microsoft.com/en-us/library/70fxkt41.aspx
+C/C++ Linker	LNK1287		invalid managed entry point function	Error	http://msdn.microsoft.com/en-us/library/5yzd2fa8.aspx
+C/C++ Linker	LNK1296		unable to load filename	Error	http://msdn.microsoft.com/en-us/library/d7ya76ff.aspx
+C/C++ Linker	LNK1301		LTCG clr modules found, incompatible with /LTCG:parameter	Error	http://msdn.microsoft.com/en-us/library/8btbk13d.aspx
+C/C++ Linker	LNK1302		only support linking safe .netmodules; unable to link file .netmodule	Error	http://msdn.microsoft.com/en-us/library/9x035d1s.aspx
+C/C++ Linker	LNK1306		DLL entry point function cannot be managed; compile to native	Error	http://msdn.microsoft.com/en-us/library/5a92156w.aspx
+C/C++ Linker	LNK1309		type1 module detected; invalid with switch /CLRIMAGETYPE:type2	Error	http://msdn.microsoft.com/en-us/library/430cwc9k.aspx
+C/C++ Linker	LNK1312		invalid or corrupt file: unable to import assembly	Error	http://msdn.microsoft.com/en-us/library/ms173726.aspx
+C/C++ Linker	LNK1313		ijw/native module detected; cannot link with pure modules	Error	http://msdn.microsoft.com/en-us/library/ms173727.aspx
+C/C++ Linker	LNK1314		corrupt or invalid COFF symbol table (undefined static or label symbol)	Error	http://msdn.microsoft.com/en-us/library/ms173728.aspx
+C/C++ Linker	LNK1332		detected &lt;count&gt; Windows Runtime types imported in one module and defined in another module	Error	http://msdn.microsoft.com/en-us/library/jj635871.aspx
+C/C++ Linker	LNK1561		entry point must be defined	Error	http://msdn.microsoft.com/en-us/library/ky737ya4.aspx
+C/C++ Linker	LNK2001		unresolved external symbol "symbol"	Error	http://msdn.microsoft.com/en-us/library/f6xx1b1z.aspx
+C/C++ Linker	LNK2004		gp relative fixup overflow to 'target'; short section 'section' is too large or out of range.	Error	http://msdn.microsoft.com/en-us/library/skx8weea.aspx
+C/C++ Linker	LNK2005		symbol already defined in object	Error	http://msdn.microsoft.com/en-us/library/72zdcz6f.aspx
+C/C++ Linker	LNK2008		Fixup target is not aligned 'symbol_name'	Error	http://msdn.microsoft.com/en-us/library/eatcwbe8.aspx
+C/C++ Linker	LNK2011		precompiled object not linked in; image may not run	Error	http://msdn.microsoft.com/en-us/library/3ay26wa2.aspx
+C/C++ Linker	LNK2013		fixup type fixup overflow. Target 'symbol name' is out of range	Error	http://msdn.microsoft.com/en-us/library/bc3e8d1t.aspx
+C/C++ Linker	LNK2017		'symbol' relocation to 'segment' invalid without /LARGEADDRESSAWARE:NO	Error	http://msdn.microsoft.com/en-us/library/daszf0sk.aspx
+C/C++ Linker	LNK2019		unresolved external symbol 'symbol' referenced in function 'function'	Error	http://msdn.microsoft.com/en-us/library/799kze2z.aspx
+C/C++ Linker	LNK2020		unresolved token 'token'	Error	http://msdn.microsoft.com/en-us/library/b57tw91b.aspx
+C/C++ Linker	LNK2022		metadata operation failed (HRESULT) : error_message	Error	http://msdn.microsoft.com/en-us/library/zkf0dz41.aspx
+C/C++ Linker	LNK2023		bad dll or entry point &lt;dll or entry point&gt;	Error	http://msdn.microsoft.com/en-us/library/1z23w366.aspx
+C/C++ Linker	LNK2026		module unsafe for SAFESEH image	Error	http://msdn.microsoft.com/en-us/library/100ezk17.aspx
+C/C++ Linker	LNK2027		unresolved module reference 'module'	Error	http://msdn.microsoft.com/en-us/library/ms173731.aspx
+C/C++ Linker	LNK2028		"exported_function" (decorated_name) referenced in function "function_containing_function_call" (decorated_name)	Error	http://msdn.microsoft.com/en-us/library/ms235590.aspx
+C/C++ Linker	LNK2031		unable to generate p/invoke for "function_declaration" decorated_name; calling convention missing in metadata	Error	http://msdn.microsoft.com/en-us/library/ms173734.aspx
+C/C++ Linker	LNK2033		unresolved typeref token (token) for 'type'	Error	http://msdn.microsoft.com/en-us/library/ms235587.aspx
+C/C++ Linker	LNK2038		mismatch detected for '&lt;name&gt;': value '&lt;value 1&gt;' doesn't match value '&lt;value 2&gt;' in &lt;filename.obj&gt;	Error	http://msdn.microsoft.com/en-us/library/jj889284.aspx
+C/C++ Linker	LNK2039		importing ref class '&lt;type&gt;' that is defined in another.obj; it should be either imported or defined, but not both	Error	http://msdn.microsoft.com/en-us/library/jj635872.aspx
+C/C++ Linker	LNK4001		no object files specified; libraries used	Warning	http://msdn.microsoft.com/en-us/library/2k353w7f.aspx
+C/C++ Linker	LNK4002		symbol defined in object	Warning	http://msdn.microsoft.com/en-us/library/yxz5web0.aspx
+C/C++ Linker	LNK4006		symbol already defined in object; second definition ignored	Warning	http://msdn.microsoft.com/en-us/library/1zzf962b.aspx
+C/C++ Linker	LNK4010		invalid subsystem version number number; default subsystem version assumed	Warning	http://msdn.microsoft.com/en-us/library/66cc5d3h.aspx
+C/C++ Linker	LNK4014		cannot find member object "objectname"	Warning	http://msdn.microsoft.com/en-us/library/5ff8sk86.aspx
+C/C++ Linker	LNK4022		cannot find unique match for symbol 'symbol'	Warning	http://msdn.microsoft.com/en-us/library/s90k71yx.aspx
+C/C++ Linker	LNK4039		section 'name' specified with /SECTION option does not exist	Warning	http://msdn.microsoft.com/en-us/library/z13aya4e.aspx
+C/C++ Linker	LNK4044		unrecognized option 'option'; ignored	Warning	http://msdn.microsoft.com/en-us/library/twch6zc8.aspx
+C/C++ Linker	LNK4049		locally defined symbol 'symbol' imported	Warning	http://msdn.microsoft.com/en-us/library/atww7hec.aspx
+C/C++ Linker	LNK4065		'function' cannot be ordered; ignored	Warning	http://msdn.microsoft.com/en-us/library/01c3t7s6.aspx
+C/C++ Linker	LNK4070		/OUT:filename directive in .EXP differs from output filename 'filename'; ignoring directive	Warning	http://msdn.microsoft.com/en-us/library/sfkk2fz7.aspx
+C/C++ Linker	LNK4071		cannot be incrementally linked on subsequent links	Warning	http://msdn.microsoft.com/en-us/library/hs4x50ws.aspx
+C/C++ Linker	LNK4073		cannot create map for .ilk file; linking nonincrementally	Warning	http://msdn.microsoft.com/en-us/library/w9xxt9z9.aspx
+C/C++ Linker	LNK4075		ignoring "option1" due to "option2" specification	Warning	http://msdn.microsoft.com/en-us/library/3ec25010.aspx
+C/C++ Linker	LNK4076		invalid incremental status file 'filename'; linking nonincrementally	Warning	http://msdn.microsoft.com/en-us/library/yzdth9fh.aspx
+C/C++ Linker	LNK4078		multiple 'section name' sections found with different attributes	Warning	http://msdn.microsoft.com/en-us/library/049hc7a0.aspx
+C/C++ Linker	LNK4086		entrypoint 'function' is not __stdcall with 'number' bytes of arguments; image may not run	Warning	http://msdn.microsoft.com/en-us/library/sh81aeta.aspx
+C/C++ Linker	LNK4092		shared writable section 'section' contains relocations; image may not run correctly	Warning	http://msdn.microsoft.com/en-us/library/2d3a3ef7.aspx
+C/C++ Linker	LNK4096		/BASE value "number" is invalid for Windows 95 and Windows 98; image may not run	Warning	http://msdn.microsoft.com/en-us/library/s78xf8x1.aspx
+C/C++ Linker	LNK4098		defaultlib 'library' conflicts with use of other libs; use /NODEFAULTLIB:library	Warning	http://msdn.microsoft.com/en-us/library/6wtdswk0.aspx
+C/C++ Linker	LNK4099		PDB 'filename' was not found with 'object/library' or at 'path'; linking object as if no debug info	Warning	http://msdn.microsoft.com/en-us/library/b7whw3f3.aspx
+C/C++ Linker	LNK4102		export of deleting destructor 'name'; image may not run correctly	Warning	http://msdn.microsoft.com/en-us/library/bx6y9dab.aspx
+C/C++ Linker	LNK4104		export of symbol 'symbol' should be PRIVATE	Warning	http://msdn.microsoft.com/en-us/library/e821azx1.aspx
+C/C++ Linker	LNK4105		no argument specified with option 'option'; ignoring option	Warning	http://msdn.microsoft.com/en-us/library/t830xyc5.aspx
+C/C++ Linker	LNK4194		/DELAYLOAD:dll name ignored	Warning	http://msdn.microsoft.com/en-us/library/065kxt3k.aspx
+C/C++ Linker	LNK4197		export 'exportname' specified multiple times; using first specification	Warning	http://msdn.microsoft.com/en-us/library/dt1zk962.aspx
+C/C++ Linker	LNK4199		/DELAYLOAD:dllname ignored; no imports found from dllname	Warning	http://msdn.microsoft.com/en-us/library/a5x38f99.aspx
+C/C++ Linker	LNK4200		corrupt line number information in object file; ignored	Warning	http://msdn.microsoft.com/en-us/library/4e1y28f6.aspx
+C/C++ Linker	LNK4204		'filename' is missing debugging information for referencing module; linking object as if no debug info	Warning	http://msdn.microsoft.com/en-us/library/5ske5b71.aspx
+C/C++ Linker	LNK4205		'filename' is missing current debugging information for referencing module; linking object as if no debug info	Warning	http://msdn.microsoft.com/en-us/library/93fab7w5.aspx
+C/C++ Linker	LNK4206		precompiled type information not found; 'filename' not linked or overwritten; linking object as if no debug info	Warning	http://msdn.microsoft.com/en-us/library/cf1aswwe.aspx
+C/C++ Linker	LNK4210		section section exists; there may be unhandled static initializers or terminators	Warning	http://msdn.microsoft.com/en-us/library/708by912.aspx
+C/C++ Linker	LNK4216		Exported entry point entry	Warning	http://msdn.microsoft.com/en-us/library/a194btk0.aspx
+C/C++ Linker	LNK4217		locally defined symbol 'symbol' imported in function 'function'	Warning	http://msdn.microsoft.com/en-us/library/aa3se25k.aspx
+C/C++ Linker	LNK4219		fixup name fixup overflow. Target 'target symbol name' is out of range, inserting thunk	Warning	http://msdn.microsoft.com/en-us/library/6bc9zfhz.aspx
+C/C++ Linker	LNK4220		invalid 'linker option' value 'value'; assumed default	Warning	http://msdn.microsoft.com/en-us/library/750k3889.aspx
+C/C++ Linker	LNK4221		This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library	Warning	http://msdn.microsoft.com/en-us/library/604bzebd.aspx
+C/C++ Linker	LNK4222		exported symbol 'symbol' should not be assigned an ordinal	Warning	http://msdn.microsoft.com/en-us/library/8e705t74.aspx
+C/C++ Linker	LNK4224		option is no longer supported; ignored	Warning	http://msdn.microsoft.com/en-us/library/w7ys78k4.aspx
+C/C++ Linker	LNK4227		metadata operation warning (HRESULT) : warning_message	Warning	http://msdn.microsoft.com/en-us/library/za01w57b.aspx
+C/C++ Linker	LNK4229		invalid directive /directive found; ignored	Warning	http://msdn.microsoft.com/en-us/library/58kyks4s.aspx
+C/C++ Linker	LNK4237		/SUBSYSTEM:NATIVE specified when importing from 'dll'; Use /SUBSYSTEM:CONSOLE or /SUBSYSTEM:WINDOWS.	Warning	http://msdn.microsoft.com/en-us/library/242c6w67.aspx
+C/C++ Linker	LNK4247		entry point 'decorated_function_name' already has a thread attribute; 'attribute' ignored	Warning	http://msdn.microsoft.com/en-us/library/h4hh15hz.aspx
+C/C++ Linker	LNK4248		unresolved typeref token (token) for 'type'; image may not run	Warning	http://msdn.microsoft.com/en-us/library/h8027ys9.aspx
+C/C++ Linker	LNK4253		section 'section1' not merged into 'section2'; already merged into 'section3'	Warning	http://msdn.microsoft.com/en-us/library/ms235595.aspx
+C/C++ Linker	LNK4254		section 'section1' (offset) merged into 'section2' (offset) with different attributes	Warning	http://msdn.microsoft.com/en-us/library/ms235500.aspx

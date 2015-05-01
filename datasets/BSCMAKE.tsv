@@ -1,0 +1,18 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+BSCMAKE	BK1503		cannot write to file 'filename' [: reason]	Error	http://msdn.microsoft.com/en-us/library/hdcfh6c7.aspx
+BSCMAKE	BK1504		cannot position in file 'filename' [: reason]	Error	http://msdn.microsoft.com/en-us/library/y6fd91td.aspx
+BSCMAKE	BK1505		cannot read from file 'filename' [: reason]	Error	http://msdn.microsoft.com/en-us/library/81k63w1e.aspx
+BSCMAKE	BK1506		cannot open file 'filename' [: reason]	Error	http://msdn.microsoft.com/en-us/library/4k027wt5.aspx
+BSCMAKE	BK1507		cannot open temporary file 'filename' [: reason]	Error	http://msdn.microsoft.com/en-us/library/dbb9ehx1.aspx
+BSCMAKE	BK1508		cannot delete temporary file 'filename' [: reason]	Error	http://msdn.microsoft.com/en-us/library/dtky14be.aspx
+BSCMAKE	BK1509		out of heap space	Error	http://msdn.microsoft.com/en-us/library/12ex2f8d.aspx
+BSCMAKE	BK1510		corrupt .SBR file filename	Error	http://msdn.microsoft.com/en-us/library/68cke5hx.aspx
+BSCMAKE	BK1512		filename: capacity exceeded	Error	http://msdn.microsoft.com/en-us/library/6s3c7916.aspx
+BSCMAKE	BK1513		nonincremental update requires all .SBR files	Error	http://msdn.microsoft.com/en-us/library/8wff1f6a.aspx
+BSCMAKE	BK1514		all .SBR files truncated, none found in filename	Error	http://msdn.microsoft.com/en-us/library/64y9cc8x.aspx
+BSCMAKE	BK1515		bscfile: incompatible version: cannot incrementally update	Error	http://msdn.microsoft.com/en-us/library/7c5bkd97.aspx
+BSCMAKE	BK1516		bscfile corrupt; cannot incrementally update	Error	http://msdn.microsoft.com/en-us/library/t5tbhbc3.aspx
+BSCMAKE	BK1517		source file for sbrfile compiled with both /Yc and /Yu	Error	http://msdn.microsoft.com/en-us/library/xwkted4c.aspx
+BSCMAKE	BK4502		truncated .SBR file 'filename' not in filename	Warning	http://msdn.microsoft.com/en-us/library/5ba52z29.aspx
+BSCMAKE	BK4503		minor error in .SBR file filename ignored	Warning	http://msdn.microsoft.com/en-us/library/1ytsb09k.aspx
+BSCMAKE	BK4504		file contains too many references; ignoring further references from this source	Warning	http://msdn.microsoft.com/en-us/library/c9az84b2.aspx

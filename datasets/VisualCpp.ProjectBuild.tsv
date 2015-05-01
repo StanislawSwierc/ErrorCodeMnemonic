@@ -1,0 +1,41 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+Visual C++ Project Build	PRJ0002		error result returned from 'command line'.	Error	http://msdn.microsoft.com/en-us/library/f72493wc.aspx
+Visual C++ Project Build	PRJ0003		Error spawning 'command line'.	Error	http://msdn.microsoft.com/en-us/library/d5cbdh4t.aspx
+Visual C++ Project Build	PRJ0004		Could not generate command line for the 'tool' tool.	Error	http://msdn.microsoft.com/en-us/library/tfb4t9ek.aspx
+Visual C++ Project Build	PRJ0005		Unable to create a temporary file in directory 'directory'.	Error	http://msdn.microsoft.com/en-us/library/hkweeb0y.aspx
+Visual C++ Project Build	PRJ0006		Could not open the temporary file 'file'. Make sure the file exists and that the directory is not write-protected.	Error	http://msdn.microsoft.com/en-us/library/hak0hca9.aspx
+Visual C++ Project Build	PRJ0007		Could not create output directory 'directory'.	Error	http://msdn.microsoft.com/en-us/library/ews45882.aspx
+Visual C++ Project Build	PRJ0008		Could not delete file 'file'.	Error	http://msdn.microsoft.com/en-us/library/hk8k8k4h.aspx
+Visual C++ Project Build	PRJ0009		Build log could not be opened for writing.	Error	http://msdn.microsoft.com/en-us/library/2bfs9482.aspx
+Visual C++ Project Build	PRJ0013		System resource could be critically low. Unable to create a pipe required to launch a build.	Error	http://msdn.microsoft.com/en-us/library/thy99fd3.aspx
+Visual C++ Project Build	PRJ0014		The job object used to control the spawned processes has failed.  The build cannot continue.	Error	http://msdn.microsoft.com/en-us/library/akh3ed2k.aspx
+Visual C++ Project Build	PRJ0015		The NULL device is missing from your system. We are unable to launch a build.	Error	http://msdn.microsoft.com/en-us/library/c22s4fy4.aspx
+Visual C++ Project Build	PRJ0016		The user's security settings prevent the process from being created. These settings are required for building.	Error	http://msdn.microsoft.com/en-us/library/x7btebkt.aspx
+Visual C++ Project Build	PRJ0017		The current working directory is invalid.	Error	http://msdn.microsoft.com/en-us/library/84fcxc2z.aspx
+Visual C++ Project Build	PRJ0018		The following environment variables were not found:	Warning	http://msdn.microsoft.com/en-us/library/4a26ecbf.aspx
+Visual C++ Project Build	PRJ0019		A tool returned an error code from 	Error	http://msdn.microsoft.com/en-us/library/yzk29wdw.aspx
+Visual C++ Project Build	PRJ0020		Tool 'tool', Property 'property' contains invalid file name 'file'.	Error	http://msdn.microsoft.com/en-us/library/ex104s94.aspx
+Visual C++ Project Build	PRJ0021		Tool 'tool', Property 'property' contains invalid file name.	Error	http://msdn.microsoft.com/en-us/library/a3kt852w.aspx
+Visual C++ Project Build	PRJ0022		Unknown Tool, Property 'property' contains invalid file name 'file'.	Error	http://msdn.microsoft.com/en-us/library/tek4137f.aspx
+Visual C++ Project Build	PRJ0023		Tool 'tool', Unknown Property contains invalid file name 'file'.	Error	http://msdn.microsoft.com/en-us/library/a7kwf2t6.aspx
+Visual C++ Project Build	PRJ0024		Unicode path 'path' could not be translated to user's ANSI code page.	Error	http://msdn.microsoft.com/en-us/library/twwbxb52.aspx
+Visual C++ Project Build	PRJ0025		Batch file 'file' contains Unicode contents that could not be translated to user's ANSI code page.	Error	http://msdn.microsoft.com/en-us/library/h3s0c72s.aspx
+Visual C++ Project Build	PRJ0026		Response file 'file' contains Unicode contents that could not be translated to user's ANSI code page.	Error	http://msdn.microsoft.com/en-us/library/ch895h7c.aspx
+Visual C++ Project Build	PRJ0027		Unicode log message 'contents' contains content that could not be translated to the user's ANSI code page.	Error	http://msdn.microsoft.com/en-us/library/bxz4091x.aspx
+Visual C++ Project Build	PRJ0028		Temporary file 'file' contains Unicode contents that could not be translated to user's ANSI code page.	Error	http://msdn.microsoft.com/en-us/library/af6a2stz.aspx
+Visual C++ Project Build	PRJ0029		The 'Outputs' property for the project-level custom build step is not set. The custom build step will be skipped.	Warning	http://msdn.microsoft.com/en-us/library/x23asaz0.aspx
+Visual C++ Project Build	PRJ0030		Macro expansion error. Evaluate recursion exceeded 32 levels for $(macro).	Error	http://msdn.microsoft.com/en-us/library/x3t8ak37.aspx
+Visual C++ Project Build	PRJ0031		The 'Outputs' property for the custom build step for file 'file' contained 'macro' which evaluates out to 'macro_expansion'.	Error	http://msdn.microsoft.com/en-us/library/406kc471.aspx
+Visual C++ Project Build	PRJ0032		The 'Outputs' property for the project-level custom build step contained 'macro' which evaluates out to 'macro_expansion'.	Error	http://msdn.microsoft.com/en-us/library/39f382k4.aspx
+Visual C++ Project Build	PRJ0033		The 'Additional Dependencies' property for the custom build step for file 'file' contained 'macro' which evaluates out to 'macro_expansion'.	Error	http://msdn.microsoft.com/en-us/library/98kay83f.aspx
+Visual C++ Project Build	PRJ0034		The 'Additional Dependencies' property for the project-level custom build step contained&nbsp;'macro' which evaluates out to 'macro_expansion'.	Error	http://msdn.microsoft.com/en-us/library/cd75we3c.aspx
+Visual C++ Project Build	PRJ0035		XML file 'file' contains Unicode contents that could not be translated to user's ANSI code page.	Error	http://msdn.microsoft.com/en-us/library/0e25w9kd.aspx
+Visual C++ Project Build	PRJ0036		The 'Additional Files' property for the Web Deployment Tool contained an invalid entry.	Error	http://msdn.microsoft.com/en-us/library/e5y6d97z.aspx
+Visual C++ Project Build	PRJ0040		Internal error on build. Cannot continue. Please reload project and try again.	Error	http://msdn.microsoft.com/en-us/library/h6w64z5f.aspx
+Visual C++ Project Build	PRJ0041		Cannot find missing dependency 'dependency' for file 'file'. Your project may still build, but may continue to appear out of date until this file is found.	Warning	http://msdn.microsoft.com/en-us/library/kew321e1.aspx
+Visual C++ Project Build	PRJ0042		 The 'Outputs' property for the custom build step for file ' file ' is not set. The custom build step will be skipped. 	Warning	http://msdn.microsoft.com/en-us/library/0d5fcytf.aspx
+Visual C++ Project Build	PRJ0044		The 'Additional Dependencies' property for custom build rule 'rule' assigned to file 'file' is invalid. The property contained 'string' which evaluates to 'value'.	Error	http://msdn.microsoft.com/en-us/library/y733355z.aspx
+Visual C++ Project Build	PRJ0046		Could not spawn command line because the one specified was empty.	Error	http://msdn.microsoft.com/en-us/library/sd9242dd.aspx
+Visual C++ Project Build	PRJ0047		Could not resume the suspended process.  The build has failed.	Error	http://msdn.microsoft.com/en-us/library/ms235510.aspx
+Visual C++ Project Build	PRJ0049		Referenced target '&lt;Reference&gt;' requires .NET Framework &lt;MinFrameworkVersion&gt; and will fail to run on this project's target framework	Warning	http://msdn.microsoft.com/en-us/library/bb385058.aspx
+Visual C++ Project Build	PRJ0050		Failed to register output. Please ensure you have the appropriate permissions to modify the registry.	Error	http://msdn.microsoft.com/en-us/library/ms235584.aspx

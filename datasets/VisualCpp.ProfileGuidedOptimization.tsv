@@ -1,0 +1,4 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+Visual C/C++ Profile-Guided Optimization	PG0165		Reading 'Filename.pgd' : 'PGD version is not supported (version mismatch)'.	Error	http://msdn.microsoft.com/en-us/library/cc714118.aspx
+Visual C/C++ Profile-Guided Optimization	PG1039		Failed waiting for quiet time to sweep.	Warning	http://msdn.microsoft.com/en-us/library/z8b98h4f.aspx
+Visual C/C++ Profile-Guided Optimization	PG1087		The PGC file 'file' is not valid.	Warning	http://msdn.microsoft.com/en-us/library/dxxk045k.aspx

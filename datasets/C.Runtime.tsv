@@ -1,0 +1,18 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+C Run-Time	R6002		floating-point support not loaded	Error	http://msdn.microsoft.com/en-us/library/k1x26e0x.aspx
+C Run-Time	R6008		not enough space for arguments	Error	http://msdn.microsoft.com/en-us/library/df4zhd79.aspx
+C Run-Time	R6009		not enough space for environment	Error	http://msdn.microsoft.com/en-us/library/0w3yw610.aspx
+C Run-Time	R6016		not enough space for thread data	Error	http://msdn.microsoft.com/en-us/library/d509d9f9.aspx
+C Run-Time	R6017		unexpected multithread lock error	Error	http://msdn.microsoft.com/en-us/library/7xxd4ac7.aspx
+C Run-Time	R6018		unexpected heap error	Error	http://msdn.microsoft.com/en-us/library/etf3wdkc.aspx
+C Run-Time	R6019		unable to open console device	Error	http://msdn.microsoft.com/en-us/library/5c8hzzkx.aspx
+C Run-Time	R6024		not enough space for _onexit/atexit table	Error	http://msdn.microsoft.com/en-us/library/scx3y3cz.aspx
+C Run-Time	R6025		pure virtual function call	Error	http://msdn.microsoft.com/en-us/library/wbddte9e.aspx
+C Run-Time	R6026		not enough space for stdio initialization	Error	http://msdn.microsoft.com/en-us/library/aae1ta75.aspx
+C Run-Time	R6027		not enough space for lowio initialization	Error	http://msdn.microsoft.com/en-us/library/w6ya07ty.aspx
+C Run-Time	R6028		unable to initialize heap	Error	http://msdn.microsoft.com/en-us/library/145s8272.aspx
+C Run-Time	R6030		CRT not initialized	Error	http://msdn.microsoft.com/en-us/library/9ecfyw6c.aspx
+C Run-Time	R6031		Attempt to initialize the CRT more than once. This indicates a bug in your application.	Error	http://msdn.microsoft.com/en-us/library/ms173740.aspx
+C Run-Time	R6032		Not enough space for locale information	Error	http://msdn.microsoft.com/en-us/library/aa985621.aspx
+C Run-Time	R6033		Attempt to use MSIL code from this assembly during native code initialization.	Error	http://msdn.microsoft.com/en-us/library/aa985650.aspx
+C Run-Time	R6035		A module in this application is initializing the module's global security cookie while a function relying on that security cookie is active.	Error	http://msdn.microsoft.com/en-us/library/ms235603.aspx

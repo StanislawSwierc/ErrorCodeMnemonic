@@ -1,0 +1,37 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+NMAKE	U1000		syntax error : ')' missing in macro invocation	Fatal Error	http://msdn.microsoft.com/en-us/library/k2kk14zs.aspx
+NMAKE	U1001		syntax error : illegal character 'character' in macro	Fatal Error	http://msdn.microsoft.com/en-us/library/6563cx7y.aspx
+NMAKE	U1007		double quotation mark not allowed in name	Fatal Error	http://msdn.microsoft.com/en-us/library/s99zy1dh.aspx
+NMAKE	U1023		syntax error in expression	Fatal Error	http://msdn.microsoft.com/en-us/library/t8e74fze.aspx
+NMAKE	U1033		syntax error : 'string' unexpected	Fatal Error	http://msdn.microsoft.com/en-us/library/42y74zxt.aspx
+NMAKE	U1034		syntax error : separator missing	Fatal Error	http://msdn.microsoft.com/en-us/library/h40sttyf.aspx
+NMAKE	U1035		syntax error : expected ':' or '=' separator	Fatal Error	http://msdn.microsoft.com/en-us/library/9d1sth9k.aspx
+NMAKE	U1036		syntax error : too many names to left of '='	Fatal Error	http://msdn.microsoft.com/en-us/library/fs4xfc5t.aspx
+NMAKE	U1045		spawn failed : message	Fatal Error	http://msdn.microsoft.com/en-us/library/cze86wc3.aspx
+NMAKE	U1050		message	Fatal Error	http://msdn.microsoft.com/en-us/library/2xk3k2st.aspx
+NMAKE	U1051		out of memory	Fatal Error	http://msdn.microsoft.com/en-us/library/scsy4yz2.aspx
+NMAKE	U1052		file 'filename' not found	Fatal Error	http://msdn.microsoft.com/en-us/library/kh26y13z.aspx
+NMAKE	U1055		out of environment space	Fatal Error	http://msdn.microsoft.com/en-us/library/5eayf7ac.aspx
+NMAKE	U1056		cannot find command processor	Fatal Error	http://msdn.microsoft.com/en-us/library/cf814hh6.aspx
+NMAKE	U1059		syntax error : '}' missing in dependent	Fatal Error	http://msdn.microsoft.com/en-us/library/cy971696.aspx
+NMAKE	U1064		MAKEFILE not found and no target specified	Fatal Error	http://msdn.microsoft.com/en-us/library/t7135xwe.aspx
+NMAKE	U1065		invalid option 'option'	Fatal Error	http://msdn.microsoft.com/en-us/library/e2eh8f4a.aspx
+NMAKE	U1070		cycle in macro definition 'macroname'	Fatal Error	http://msdn.microsoft.com/en-us/library/8bf0ewty.aspx
+NMAKE	U1071		cycle in dependency tree for target 'targetname'	Fatal Error	http://msdn.microsoft.com/en-us/library/7xhaatkw.aspx
+NMAKE	U1073		don't know how to make 'targetname'	Fatal Error	http://msdn.microsoft.com/en-us/library/65faht2w.aspx
+NMAKE	U1076		name too long	Fatal Error	http://msdn.microsoft.com/en-us/library/8fhfck6s.aspx
+NMAKE	U1077		'program' : return code 'value'	Fatal Error	http://msdn.microsoft.com/en-us/library/dt309377.aspx
+NMAKE	U1078		constant overflow at 'expression'	Fatal Error	http://msdn.microsoft.com/en-us/library/67hecb6w.aspx
+NMAKE	U1083		target macro 'target' expands to nothing	Fatal Error	http://msdn.microsoft.com/en-us/library/3cb9w42k.aspx
+NMAKE	U1087		cannot have : and :: dependents for same target	Fatal Error	http://msdn.microsoft.com/en-us/library/t2fwadz3.aspx
+NMAKE	U1088		invalid separator '::' on inference rule	Fatal Error	http://msdn.microsoft.com/en-us/library/y2kf6t03.aspx
+NMAKE	U1095		expanded command line 'commandline' too long	Fatal Error	http://msdn.microsoft.com/en-us/library/23bz2yst.aspx
+NMAKE	U1097		filename-parts syntax requires dependent	Fatal Error	http://msdn.microsoft.com/en-us/library/xdh4582d.aspx
+NMAKE	U1099		stack overflow	Fatal Error	http://msdn.microsoft.com/en-us/library/10ba7w70.aspx
+NMAKE	U1100		macro 'macroname' is illegal in the context of batch rule 'rule'	Fatal Error	http://msdn.microsoft.com/en-us/library/w8329dxw.aspx
+NMAKE	U4001		command file can be invoked only from command line	Warning	http://msdn.microsoft.com/en-us/library/6f0fa36h.aspx
+NMAKE	U4004		too many rules for target 'targetname'	Warning	http://msdn.microsoft.com/en-us/library/xx12wk7x.aspx
+NMAKE	U4006		special macro undefined : 'macroname'	Warning	http://msdn.microsoft.com/en-us/library/15zxzz16.aspx
+NMAKE	U4007		filename 'filename' too long; truncating to 8.3	Warning	http://msdn.microsoft.com/en-us/library/tfzz43ah.aspx
+NMAKE	U4010		'target' : build failed; /K specified, continuing ...	Warning	http://msdn.microsoft.com/en-us/library/52823180.aspx
+NMAKE	U4011		'target' : not all dependents available; target not built	Warning	http://msdn.microsoft.com/en-us/library/y4a7tt3z.aspx

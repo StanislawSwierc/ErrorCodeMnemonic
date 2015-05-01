@@ -1,0 +1,18 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+Visual C/C++ Command-Line	D8016		'option1' and 'option2' command-line options are incompatible	Error	http://msdn.microsoft.com/en-us/library/t0cs92zx.aspx
+Visual C/C++ Command-Line	D8021		invalid numeric argument 'number'	Error	http://msdn.microsoft.com/en-us/library/kfk5bs0s.aspx
+Visual C/C++ Command-Line	D8022		cannot open 'messagefile'	Error	http://msdn.microsoft.com/en-us/library/ez179hkk.aspx
+Visual C/C++ Command-Line	D8027		cannot execute 'component'	Error	http://msdn.microsoft.com/en-us/library/733t42a9.aspx
+Visual C/C++ Command-Line	D8036		'/option' not allowed with multiple source files	Error	http://msdn.microsoft.com/en-us/library/k4ka50sk.aspx
+Visual C/C++ Command-Line	D8037		cannot create temporary il file; clean temp directory of old il files	Error	http://msdn.microsoft.com/en-us/library/bb385201.aspx
+Visual C/C++ Command-Line	D8045		cannot compile C file 'file' with the /clr option	Error	http://msdn.microsoft.com/en-us/library/abb82cy0.aspx
+Visual C/C++ Command-Line	D9024		unrecognized source file type 'filename', object file assumed	Warning	http://msdn.microsoft.com/en-us/library/zfsbakc5.aspx
+Visual C/C++ Command-Line	D9025		overriding 'option1' with 'option2'	Warning	http://msdn.microsoft.com/en-us/library/8k3f51f1.aspx
+Visual C/C++ Command-Line	D9026		options apply to entire command line	Warning	http://msdn.microsoft.com/en-us/library/1k39akdy.aspx
+Visual C/C++ Command-Line	D9027		source file '&lt;filename&gt;' ignored	Warning	http://msdn.microsoft.com/en-us/library/5530c3he.aspx
+Visual C/C++ Command-Line	D9028		minimal rebuild failure, reverting to normal build	Warning	http://msdn.microsoft.com/en-us/library/xyac57k7.aspx
+Visual C/C++ Command-Line	D9035		option 'option' has been deprecated and will be removed in a future release	Warning	http://msdn.microsoft.com/en-us/library/2b0bfxd2.aspx
+Visual C/C++ Command-Line	D9036		'option_2' instead of 'option_1'	Warning	http://msdn.microsoft.com/en-us/library/zaswfcfd.aspx
+Visual C/C++ Command-Line	D9040		ignoring option '/analyze'; Code Analysis warnings are not available in this edition of the compiler	Warning	http://msdn.microsoft.com/en-us/library/bb384750.aspx
+Visual C/C++ Command-Line	D9041		invalid value 'value' for '/option'; assuming 'value'; add '/analyze' to command-line options when specifying this warning	Warning	http://msdn.microsoft.com/en-us/library/bb385232.aspx
+Visual C/C++ Command-Line	D9043		invalid value 'warning_level' for 'compiler_option'; assuming '4999'; Code Analysis warnings are not associated with warning levels	Warning	http://msdn.microsoft.com/en-us/library/ms173723.aspx

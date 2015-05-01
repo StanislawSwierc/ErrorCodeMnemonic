@@ -1,0 +1,4 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+CVTRES	CVT1100		duplicate resource - type:type, name:name, language:language, flags:flags, size:size	Fatal Error	http://msdn.microsoft.com/en-us/library/3k67zd6z.aspx
+CVTRES	CVT1103		cannot read filename	Fatal Error	http://msdn.microsoft.com/en-us/library/y4fe6b7f.aspx
+CVTRES	CVT1105		cannot seek in file	Fatal Error	http://msdn.microsoft.com/en-us/library/8dey41xy.aspx

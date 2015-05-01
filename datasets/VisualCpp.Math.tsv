@@ -1,0 +1,11 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+Visual C/C++ Math Compiler	M6101		invalid	Error	http://msdn.microsoft.com/en-us/library/t4kf89a8.aspx
+Visual C/C++ Math Compiler	M6102		denormal	Error	http://msdn.microsoft.com/en-us/library/8e9sk4bk.aspx
+Visual C/C++ Math Compiler	M6107		unemulated	Error	http://msdn.microsoft.com/en-us/library/5c8by894.aspx
+Visual C/C++ Math Compiler	M6108		square root	Error	http://msdn.microsoft.com/en-us/library/8cdds4z8.aspx
+Visual C/C++ Math Compiler	M6110		stack overflow	Error	http://msdn.microsoft.com/en-us/library/tsh1xbtt.aspx
+Visual C/C++ Math Compiler	M6111		stack underflow	Error	http://msdn.microsoft.com/en-us/library/ecwhw38z.aspx
+Visual C/C++ Math Compiler	M6201		'function' : _DOMAIN error	Error	http://msdn.microsoft.com/en-us/library/wa7h2bkb.aspx
+Visual C/C++ Math Compiler	M6202		'function' : _SING error	Error	http://msdn.microsoft.com/en-us/library/4syxzf0e.aspx
+Visual C/C++ Math Compiler	M6203		'function' : _OVERFLOW error	Error	http://msdn.microsoft.com/en-us/library/t4ye1bx5.aspx
+Visual C/C++ Math Compiler	M6205		'function' : _TLOSS error	Error	http://msdn.microsoft.com/en-us/library/w94yxs4w.aspx

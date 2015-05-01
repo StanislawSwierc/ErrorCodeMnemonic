@@ -1,0 +1,72 @@
+Program	Code	Mnemonic	Summary	Severity	HelpLink
+C/C++ Resource Compiler	RC1002		out of heap space	Fatal Error	http://msdn.microsoft.com/en-us/library/2ykttf15.aspx
+C/C++ Resource Compiler	RC1004		unexpected end of file found	Fatal Error	http://msdn.microsoft.com/en-us/library/01a72tbd.aspx
+C/C++ Resource Compiler	RC1009		compiler limit : macros too deeply nested 'macro'	Fatal Error	http://msdn.microsoft.com/en-us/library/extws450.aspx
+C/C++ Resource Compiler	RC1011		compiler limit : 'identifier' : macro definition too big	Fatal Error	http://msdn.microsoft.com/en-us/library/s6tw733f.aspx
+C/C++ Resource Compiler	RC1015		cannot open include file 'filename'	Fatal Error	http://msdn.microsoft.com/en-us/library/a9d6a3ak.aspx
+C/C++ Resource Compiler	RC1017		invalid integer constant expression	Fatal Error	http://msdn.microsoft.com/en-us/library/ks8wbt9f.aspx
+C/C++ Resource Compiler	RC1018		unexpected '#elif'	Fatal Error	http://msdn.microsoft.com/en-us/library/570cxh5h.aspx
+C/C++ Resource Compiler	RC1019		unexpected '#else'	Fatal Error	http://msdn.microsoft.com/en-us/library/31092kdk.aspx
+C/C++ Resource Compiler	RC1020		unexpected '#endif'	Fatal Error	http://msdn.microsoft.com/en-us/library/xkhaxx7e.aspx
+C/C++ Resource Compiler	RC1021		invalid preprocessor command 'string'	Fatal Error	http://msdn.microsoft.com/en-us/library/67y5x20h.aspx
+C/C++ Resource Compiler	RC1022		expected '#endif'	Fatal Error	http://msdn.microsoft.com/en-us/library/bx438ahs.aspx
+C/C++ Resource Compiler	RC1047		"too many option options, 'string'"	Fatal Error	http://msdn.microsoft.com/en-us/library/9ckdbexa.aspx
+C/C++ Resource Compiler	RC1052		compiler limit : #if or #ifdef blocks nested too deeply	Fatal Error	http://msdn.microsoft.com/en-us/library/z5154f80.aspx
+C/C++ Resource Compiler	RC1067		compiler limit : identifier overflowed internal buffer	Fatal Error	http://msdn.microsoft.com/en-us/library/9ytfd3ch.aspx
+C/C++ Resource Compiler	RC1101		no resource binary filename specified	Fatal Error	http://msdn.microsoft.com/en-us/library/k8410tyx.aspx
+C/C++ Resource Compiler	RC1102		internal error : too many arguments to RCPP	Fatal Error	http://msdn.microsoft.com/en-us/library/s2cwycsf.aspx
+C/C++ Resource Compiler	RC1105		invalid switch, option: too many /d switches	Fatal Error	http://msdn.microsoft.com/en-us/library/36yey12k.aspx
+C/C++ Resource Compiler	RC1109		error creating resource-name	Fatal Error	http://msdn.microsoft.com/en-us/library/f5bbkwt2.aspx
+C/C++ Resource Compiler	RC1116		RC terminating after preprocessor errors	Fatal Error	http://msdn.microsoft.com/en-us/library/26bws57f.aspx
+C/C++ Resource Compiler	RC1120		out of memory, needed number bytes	Fatal Error	http://msdn.microsoft.com/en-us/library/af97a45w.aspx
+C/C++ Resource Compiler	RC1121		I/O error reading file	Fatal Error	http://msdn.microsoft.com/en-us/library/zec70z9d.aspx
+C/C++ Resource Compiler	RC1203		invalid hexadecimal default language ID specified.	Fatal Error	http://msdn.microsoft.com/en-us/library/5aw3x6s8.aspx
+C/C++ Resource Compiler	RC1205		invalid code page	Fatal Error	http://msdn.microsoft.com/en-us/library/4yf6fba3.aspx
+C/C++ Resource Compiler	RC1208		input file has .RES extension	Fatal Error	http://msdn.microsoft.com/en-us/library/zdb2kdy0.aspx
+C/C++ Resource Compiler	RC2001		newline in constant	Error	http://msdn.microsoft.com/en-us/library/eacb02d3.aspx
+C/C++ Resource Compiler	RC2007		#define syntax	Error	http://msdn.microsoft.com/en-us/library/tceb4392.aspx
+C/C++ Resource Compiler	RC2015		too many chars in constant	Error	http://msdn.microsoft.com/en-us/library/1zk6y9x6.aspx
+C/C++ Resource Compiler	RC2017		illegal escape sequence	Error	http://msdn.microsoft.com/en-us/library/b97fzz3s.aspx
+C/C++ Resource Compiler	RC2101		Invalid directive in preprocessed RC file	Error	http://msdn.microsoft.com/en-us/library/ww3b0d5s.aspx
+C/C++ Resource Compiler	RC2103		unexpected end of file in string literal	Error	http://msdn.microsoft.com/en-us/library/847h3hh5.aspx
+C/C++ Resource Compiler	RC2104		undefined keyword or key name: key	Error	http://msdn.microsoft.com/en-us/library/k2z28y0f.aspx
+C/C++ Resource Compiler	RC2109		expected numerical dialog constant	Error	http://msdn.microsoft.com/en-us/library/k9k2zb64.aspx
+C/C++ Resource Compiler	RC2111		invalid control type	Error	http://msdn.microsoft.com/en-us/library/fte30hc2.aspx
+C/C++ Resource Compiler	RC2112		BEGIN expected in dialog	Error	http://msdn.microsoft.com/en-us/library/k19x580z.aspx
+C/C++ Resource Compiler	RC2113		END expected in dialog	Error	http://msdn.microsoft.com/en-us/library/2ky695h9.aspx
+C/C++ Resource Compiler	RC2114		expected control class name	Error	http://msdn.microsoft.com/en-us/library/92st8kcy.aspx
+C/C++ Resource Compiler	RC2116		expecting number for ID	Error	http://msdn.microsoft.com/en-us/library/170xsdb7.aspx
+C/C++ Resource Compiler	RC2122		unknown menu subtype	Error	http://msdn.microsoft.com/en-us/library/0b90c6k6.aspx
+C/C++ Resource Compiler	RC2124		empty menus not allowed	Error	http://msdn.microsoft.com/en-us/library/ka75tc94.aspx
+C/C++ Resource Compiler	RC2127		version WORDs separated by commas expected	Error	http://msdn.microsoft.com/en-us/library/s7zextb2.aspx
+C/C++ Resource Compiler	RC2135		file not found: filename	Error	http://msdn.microsoft.com/en-us/library/wadas537.aspx
+C/C++ Resource Compiler	RC2144		PRIMARY LANGUAGE ID not a number	Error	http://msdn.microsoft.com/en-us/library/f7096759.aspx
+C/C++ Resource Compiler	RC2147		SUBLANGUAGE ID not a number	Error	http://msdn.microsoft.com/en-us/library/ftkw0dty.aspx
+C/C++ Resource Compiler	RC2148		SUBLANGUAGE ID too large	Error	http://msdn.microsoft.com/en-us/library/h50h145c.aspx
+C/C++ Resource Compiler	RC2151		cannot re-use string constants	Error	http://msdn.microsoft.com/en-us/library/6tazh8b9.aspx
+C/C++ Resource Compiler	RC2152		invalid control character	Error	http://msdn.microsoft.com/en-us/library/9b44yf9e.aspx
+C/C++ Resource Compiler	RC2162		expected macro formal parameter	Error	http://msdn.microsoft.com/en-us/library/7k2tah97.aspx
+C/C++ Resource Compiler	RC2163		accelerator type required [ASCII or VIRTKEY]	Error	http://msdn.microsoft.com/en-us/library/0445sws4.aspx
+C/C++ Resource Compiler	RC2164		unexpected value in RCDATA	Error	http://msdn.microsoft.com/en-us/library/hsfyk407.aspx
+C/C++ Resource Compiler	RC2165		string not found in DLGINCLUDE statement	Error	http://msdn.microsoft.com/en-us/library/45attskt.aspx
+C/C++ Resource Compiler	RC2167		unrecognized VERSIONINFO field; BEGIN or comma expected	Error	http://msdn.microsoft.com/en-us/library/974be3ss.aspx
+C/C++ Resource Compiler	RC2169		resource file filename is not in 2.03 format	Error	http://msdn.microsoft.com/en-us/library/kt03a0wy.aspx
+C/C++ Resource Compiler	RC2170		bitmap file filename is not in 3.00 format	Error	http://msdn.microsoft.com/en-us/library/d4ad7d2t.aspx
+C/C++ Resource Compiler	RC2171		unknown DIB header format	Error	http://msdn.microsoft.com/en-us/library/2888scfs.aspx
+C/C++ Resource Compiler	RC2175		resource file filename is not in 3.00 format	Error	http://msdn.microsoft.com/en-us/library/s49y5a1h.aspx
+C/C++ Resource Compiler	RC4002		too many actual parameters for macro 'identifier'	Warning	http://msdn.microsoft.com/en-us/library/844zsh0w.aspx
+C/C++ Resource Compiler	RC4005		'identifier' : macro redefinition	Warning	http://msdn.microsoft.com/en-us/library/8hhdcbsa.aspx
+C/C++ Resource Compiler	RC4093		unescaped newline in character constant in inactive code	Warning	http://msdn.microsoft.com/en-us/library/0c2x045d.aspx
+C/C++ Resource Compiler	RC4214		Codepage not valid : ignored	Warning	http://msdn.microsoft.com/en-us/library/zw4d5y0y.aspx
+C/C++ Resource Compiler	RW1004		Unexpected end of file	Fatal Error	http://msdn.microsoft.com/en-us/library/f3ez0t6f.aspx
+C/C++ Resource Compiler	RW1009		Error creating resource-name	Fatal Error	http://msdn.microsoft.com/en-us/library/4h5kfeze.aspx
+C/C++ Resource Compiler	RW1016		RC terminating after preprocessor errors	Fatal Error	http://msdn.microsoft.com/en-us/library/c26a6xwb.aspx
+C/C++ Resource Compiler	RW1023		I/O error writing file, drive full	Fatal Error	http://msdn.microsoft.com/en-us/library/w801226w.aspx
+C/C++ Resource Compiler	RW1025		Out of far heap memory	Fatal Error	http://msdn.microsoft.com/en-us/library/d1zttzk4.aspx
+C/C++ Resource Compiler	RW1030		Output Error	Fatal Error	http://msdn.microsoft.com/en-us/library/566ta718.aspx
+C/C++ Resource Compiler	RW2001		Invalid directive in preprocessed RC file	Error	http://msdn.microsoft.com/en-us/library/9z2kf18k.aspx
+C/C++ Resource Compiler	RW2002		Parsing error	Error	http://msdn.microsoft.com/en-us/library/2tecz7k6.aspx
+C/C++ Resource Compiler	RW2003		Generation Error	Error	http://msdn.microsoft.com/en-us/library/x5f35yaf.aspx
+C/C++ Resource Compiler	RW4001		.EXE processing options (/L /M /P /T /K /E /31 or /30)	Warning	http://msdn.microsoft.com/en-us/library/a9ckby8k.aspx
+C/C++ Resource Compiler	RW4003		SHIFT or CONTROL used without VIRTKEY	Warning	http://msdn.microsoft.com/en-us/library/3fy2744z.aspx
+C/C++ Resource Compiler	RW4004		ASCII character not equivalent to virtual key code	Warning	http://msdn.microsoft.com/en-us/library/w2f05xy8.aspx
