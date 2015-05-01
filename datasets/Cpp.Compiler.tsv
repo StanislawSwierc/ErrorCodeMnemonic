@@ -1092,7 +1092,7 @@ C/C++ Compiler	C4251		'identifier' : class 'type' needs to have dll-interface to
 C/C++ Compiler	C4254		'operator' : conversion from 'type1' to 'type2', possible loss of data	Warning	http://msdn.microsoft.com/en-us/library/3fbf7w04.aspx
 C/C++ Compiler	C4255		'function' : no function prototype given: converting '()' to '(void)'	Warning	http://msdn.microsoft.com/en-us/library/0k9z2ey4.aspx
 C/C++ Compiler	C4256		'function' : constructor for class with virtual bases has '...'; calls may not be compatible with older versions of Visual C++	Warning	http://msdn.microsoft.com/en-us/library/ex7xa0zs.aspx
-C/C++ Compiler	C4258		'variable' : definition from the for loop is ignored; the definition from the enclosing scope is used"	Warning	http://msdn.microsoft.com/en-us/library/0hx5ckb0.aspx
+C/C++ Compiler	C4258		'variable' : definition from the for loop is ignored; the definition from the enclosing scope is used	Warning	http://msdn.microsoft.com/en-us/library/0hx5ckb0.aspx
 C/C++ Compiler	C4263		'function' : member function does not override any base class virtual member function	Warning	http://msdn.microsoft.com/en-us/library/ay4h0tc9.aspx
 C/C++ Compiler	C4264		'virtual_function' : no override available for virtual member function from base 'class'; function is hidden	Warning	http://msdn.microsoft.com/en-us/library/tb55b5f4.aspx
 C/C++ Compiler	C4265		'class' : class has virtual functions, but destructor is not virtual	Warning	http://msdn.microsoft.com/en-us/library/wzxffy8c.aspx
